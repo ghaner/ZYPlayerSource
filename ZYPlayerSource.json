@@ -1770,5 +1770,16 @@
     "group": "云播",
     "isActive": true,
     "reverseOrder": false
+  },
+  {
+    "key": "gnAqan",
+    "id": 149,
+    "name": "互利",
+    "api": "https://www.hulizyw.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "云播",
+    "isActive": true,
+    "reverseOrder": false
   }
 ]
