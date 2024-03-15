@@ -1,36 +1,39 @@
 [
   {
-    "key": "unQegX",
-    "id": 1,
-    "name": "魔都",
-    "api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "云播",
-    "isActive": true,
-    "reverseOrder": false
-  },
-  {
-    "key": "2ZbSKh",
-    "id": 2,
-    "name": "博民",
-    "api": "https://www.bominzy.com/api.php/provide/vod/at/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "十八",
-    "isActive": true,
-    "reverseOrder": false
-  },
-  {
     "key": "U3qDsj",
-    "id": 3,
+    "id": 1,
     "name": "快云",
     "api": "https://www.kuaiyun-api.com/api.php/provide/vod/at/xml/kuaiyunbo",
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "unQegX",
+    "id": 2,
+    "name": "魔都",
+    "api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "云播",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "2ZbSKh",
+    "id": 3,
+    "name": "博民",
+    "api": "https://www.bominzy.com/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "十八",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "QxGjUD",
@@ -41,7 +44,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "1iKTza",
@@ -52,7 +56,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "scbsgw",
@@ -62,8 +67,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
-    "reverseOrder": false
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
   },
   {
     "key": "4JTUwG",
@@ -74,7 +80,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "KVpL0B",
@@ -85,7 +92,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "LhAG2I",
@@ -96,7 +104,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "hEkVRl",
@@ -107,7 +116,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "nvWbsW",
@@ -119,7 +129,7 @@
     "group": "云播",
     "isActive": true,
     "reverseOrder": false,
-    "status": "失效"
+    "status": "可用"
   },
   {
     "key": "Ptd5lc",
@@ -130,7 +140,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "QNbxR9",
@@ -141,7 +152,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "wHCzEb",
@@ -151,9 +163,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "c3zhki",
@@ -163,9 +175,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "ENZwFl",
@@ -211,9 +223,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "RXQEeL",
@@ -235,9 +247,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "0FvfFe",
@@ -247,9 +259,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "yuzlNA",
@@ -259,9 +271,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "4L70Zq",
@@ -271,9 +283,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "sjUARL",
@@ -283,9 +295,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "vJfOhw",
@@ -295,9 +307,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "sDm0m2",
@@ -307,9 +319,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "LpZi2G",
@@ -319,9 +331,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "9l1kvE",
@@ -331,9 +343,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "ch1isD",
@@ -343,9 +355,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "BBom8d",
@@ -355,9 +367,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "Ypaq8h",
@@ -367,9 +379,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "cE7Jiq",
@@ -379,9 +391,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "meGpWi",
@@ -391,9 +403,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "EAlcW0",
@@ -415,9 +427,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "0PLbtK",
@@ -427,9 +439,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "fVtKAd",
@@ -439,9 +451,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "eGYWzJ",
@@ -452,7 +464,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "vGVVaQ",
@@ -474,9 +487,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "ZgqGC4",
@@ -486,9 +499,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "r5o9la",
@@ -582,9 +595,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "bc67bG",
@@ -630,9 +643,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "H1i2yd",
@@ -654,9 +667,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "FUnUVK",
@@ -666,9 +679,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "evkgCT",
@@ -678,9 +691,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "VoFZmh",
@@ -690,9 +703,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "dAhjmP",
@@ -702,9 +715,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "NhW1TO",
@@ -714,9 +727,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "aw9TKO",
@@ -726,8 +739,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
-    "reverseOrder": false
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
   },
   {
     "key": "kV7wWA",
@@ -737,9 +751,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "nQvcrt",
@@ -749,9 +763,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "WjHQJ4",
@@ -761,9 +775,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "VUFJAo",
@@ -773,9 +787,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "AAKn4c",
@@ -797,9 +811,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "1UeRHR",
@@ -809,9 +823,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "rtHPXg",
@@ -845,9 +859,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "0t7kN2",
@@ -857,9 +871,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "1ySnFS",
@@ -881,9 +895,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "89hJas",
@@ -893,9 +907,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "wo3it5",
@@ -905,9 +919,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "pURyBI",
@@ -917,9 +931,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "SSJ2vN",
@@ -929,9 +943,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "Vgx29y",
@@ -953,9 +967,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "sxLhen",
@@ -965,9 +979,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": true,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "QrM3Sn",
@@ -977,9 +991,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "Q9dKGY",
@@ -1001,9 +1015,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "ODfAkK",
@@ -1025,7 +1039,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1037,7 +1051,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1049,7 +1063,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1061,7 +1075,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1073,7 +1087,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1085,7 +1099,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1097,7 +1111,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1109,7 +1123,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1121,7 +1135,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1133,7 +1147,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1145,7 +1159,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1157,7 +1171,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1169,7 +1183,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1181,7 +1195,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1193,7 +1207,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1205,7 +1219,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1217,7 +1231,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1229,7 +1243,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1241,7 +1255,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1253,7 +1267,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1265,7 +1279,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1277,7 +1291,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
+    "isActive": false,
     "reverseOrder": false,
     "status": "失效"
   },
@@ -1291,7 +1305,7 @@
     "group": "十八",
     "isActive": true,
     "reverseOrder": false,
-    "status": "失效"
+    "status": "可用"
   },
   {
     "key": "UMenG1",
@@ -1301,8 +1315,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
-    "reverseOrder": false
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
   },
   {
     "key": "2RmoBG",
@@ -1312,8 +1327,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
-    "reverseOrder": false
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
   },
   {
     "key": "ZbdwIk",
@@ -1324,7 +1340,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "XxeJRM",
@@ -1335,7 +1352,8 @@
     "jiexiUrl": "",
     "group": "十八",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "K0YRuJ",
@@ -1345,8 +1363,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
-    "reverseOrder": false
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
   },
   {
     "key": "VbW30e",
@@ -1357,7 +1376,8 @@
     "jiexiUrl": "",
     "group": "十八",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "jWNus9",
@@ -1368,7 +1388,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "9Og9m2",
@@ -1378,8 +1399,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
-    "reverseOrder": false
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
   },
   {
     "key": "sdNgAO",
@@ -1389,8 +1411,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
-    "reverseOrder": false
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
   },
   {
     "key": "X9odeP",
@@ -1400,8 +1423,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
-    "reverseOrder": false
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
   },
   {
     "key": "cLY57q",
@@ -1411,8 +1435,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "云播",
-    "isActive": true,
-    "reverseOrder": false
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
   },
   {
     "key": "ujLnmc",
@@ -1422,8 +1447,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
-    "reverseOrder": false
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
   },
   {
     "key": "I173AA",
@@ -1434,7 +1460,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "5KKlXw",
@@ -1445,7 +1472,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "Wbky6p",
@@ -1455,8 +1483,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
-    "reverseOrder": false
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
   },
   {
     "key": "OZsnPV",
@@ -1467,7 +1496,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "6FT9lE",
@@ -1477,8 +1507,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
-    "reverseOrder": false
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
   },
   {
     "key": "tqCur0",
@@ -1489,7 +1520,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "Qwbm2T",
@@ -1500,7 +1532,8 @@
     "jiexiUrl": "",
     "group": "十八",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "7vMjdq",
@@ -1511,7 +1544,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "tKdagV",
@@ -1521,8 +1555,9 @@
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
-    "reverseOrder": false
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
   },
   {
     "key": "1TcEQ7",
@@ -1533,7 +1568,8 @@
     "jiexiUrl": "",
     "group": "十八",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "1QrNNK",
@@ -1544,7 +1580,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "rFvDXk",
@@ -1555,7 +1592,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "OkVimL",
@@ -1566,7 +1604,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "kDfDRy",
@@ -1577,7 +1616,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "ZNw0Mm",
@@ -1588,7 +1628,8 @@
     "jiexiUrl": "",
     "group": "十八",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "eV0EXl",
@@ -1599,7 +1640,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "FQGVCY",
@@ -1610,7 +1652,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "7J4lAj",
@@ -1621,7 +1664,8 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "tmdvGa",
@@ -1632,7 +1676,8 @@
     "jiexiUrl": "",
     "group": "十八",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "QJlT9D",
@@ -1643,6 +1688,7 @@
     "jiexiUrl": "",
     "group": "云播",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   }
 ]
