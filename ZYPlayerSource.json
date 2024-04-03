@@ -1,7 +1,19 @@
 [
   {
-    "key": "1iKTza",
+    "key": "QxGjUD",
     "id": 1,
+    "name": "卧龙",
+    "api": "https://collect.wolongzy.cc/api.php/wlseaxml/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "云播",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "1iKTza",
+    "id": 2,
     "name": "最大",
     "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml/",
     "download": "",
@@ -13,7 +25,7 @@
   },
   {
     "key": "BvBYYV",
-    "id": 2,
+    "id": 3,
     "name": "42",
     "api": "https://www.42.la/api.php/provide/vod/at/xml",
     "download": "",
@@ -25,7 +37,7 @@
   },
   {
     "key": "Q1EJ4B",
-    "id": 3,
+    "id": 4,
     "name": "熊掌",
     "api": "https://xzcjz.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -37,7 +49,7 @@
   },
   {
     "key": "rQ4rTj",
-    "id": 4,
+    "id": 5,
     "name": "华为吧",
     "api": "https://hw8.live/api.php/provide/vod/at/xml",
     "download": "",
@@ -49,7 +61,7 @@
   },
   {
     "key": "U3qDsj",
-    "id": 5,
+    "id": 6,
     "name": "快云",
     "api": "https://www.kuaiyun-api.com/api.php/provide/vod/at/xml/kuaiyunbo",
     "download": "",
@@ -61,7 +73,7 @@
   },
   {
     "key": "unQegX",
-    "id": 6,
+    "id": 7,
     "name": "魔都",
     "api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
     "download": "",
@@ -73,24 +85,12 @@
   },
   {
     "key": "2ZbSKh",
-    "id": 7,
+    "id": 8,
     "name": "博民",
     "api": "https://www.bominzy.com/api.php/provide/vod/at/xml",
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "key": "QxGjUD",
-    "id": 8,
-    "name": "卧龙",
-    "api": "https://collect.wolongzy.cc/api.php/wlseaxml/vod/at/xml/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "云播",
     "isActive": true,
     "reverseOrder": false,
     "status": "可用"
@@ -1787,6 +1787,17 @@
     "id": 150,
     "name": "搞起",
     "api": "http://caiji.gqjiexi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "十八",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "tXdWmT",
+    "id": 151,
+    "name": "优优",
+    "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/at/xml",
     "download": "",
     "jiexiUrl": "",
     "group": "十八",
