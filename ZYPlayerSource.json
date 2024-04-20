@@ -1803,5 +1803,16 @@
     "group": "十八",
     "isActive": true,
     "reverseOrder": false
+  },
+  {
+    "key": "YMZslk",
+    "id": 152,
+    "name": "奶香香",
+    "api": "https://naixxzy.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "十八",
+    "isActive": true,
+    "reverseOrder": false
   }
 ]
